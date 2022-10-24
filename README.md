@@ -10,3 +10,8 @@ effnaca.m Lines 16 and 17, you can change the Reynolds and angle of attack param
 How XFOIL optimization looks like (given Reynolds, alpha, maximize CL/CD):
 https://youtu.be/YMSxT4Lc_5I
 Optimal Airfoil Design through Particle Swarm Optimization fed by CFD and XFOIL. Journal of the Brazilian Society of Mechanical Sciences and Engineering.
+
+
+
+https://user-images.githubusercontent.com/58446071/197633570-b96d1f70-ee39-4dd1-bdcc-ad9f76d4c329.mp4
+
