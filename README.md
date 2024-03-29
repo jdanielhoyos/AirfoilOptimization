@@ -8,8 +8,9 @@ Optimize the airfoil parameterized by NACA 4 digits, maximizes CL/CD estimated b
 effnaca.m Lines 16 and 17, you can change the Reynolds and angle of attack parameters.
 
 How XFOIL optimization looks like (given Reynolds, alpha, maximize CL/CD):
-https://youtu.be/YMSxT4Lc_5I
-Optimal Airfoil Design through Particle Swarm Optimization fed by CFD and XFOIL. Journal of the Brazilian Society of Mechanical Sciences and Engineering.
+[https://youtu.be/YMSxT4Lc_5I](https://youtu.be/fms4OXln9OA)
+Cite as: Optimal Airfoil Design through Particle Swarm Optimization fed by CFD and XFOIL. Journal of the Brazilian Society of Mechanical Sciences and Engineering.
+https://link.springer.com/article/10.1007/s40430-022-03866-4
 
 
 
